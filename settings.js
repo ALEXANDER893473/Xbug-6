@@ -22,7 +22,7 @@ global.botname = 'death bot' //name of the bot
 
 //sticker details
 global.packname = 'you go off'
-global.author = 'Emperor\n\nContact: +15489945301'
+global.author = 'death\n\nContact: +15489945301'
 
 //console view/theme
 global.themeemoji = '🪀'
